@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR5i0023/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5i0023/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 先天斗帝敕演無上玄功靈妙真經
+  date: '2015-08-29 17:49:10.952024'
+  source:
+    repository: kanripo
+    path: KR5i0023
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0023_001-CK-KZ.yaml, hash: 'sha256:93f27fc8bbbced19a04ae9980bcdfce8d03c33ed8d0199baaae9e31cdbd2b698'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0023_001-CK-KZ.markers.yaml, hash: 'sha256:421ba25aa0c9f81868fa8b3a612f892d01e7e5846427c6901be20342ff1388fd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: CK-KZ_KR5i0023_01p001a
+    span:
+    - body
+    - 0
+    - 9812
+  label: juan 001
+  type: section
+  level: 1
+hash: sha256:6c83402960235270fbec6953b763b0ed3b8030e6d187a337e1c202b161bbe42e
